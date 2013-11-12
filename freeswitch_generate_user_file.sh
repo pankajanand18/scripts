@@ -1,3 +1,4 @@
+#!/bin/bash
 counter=1020
 while [ $counter -le 1050 ] 
 do
